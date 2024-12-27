@@ -1,4 +1,5 @@
 LOAN MANAGEMENT SYSTEM
+
 This repository contains a Loan Management System developed using DBMS principles with MySQL as the database backend and XAMPP Apache as the server for hosting the application.
 
 Overview
